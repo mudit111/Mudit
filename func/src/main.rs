@@ -8,7 +8,8 @@ fn main() {
     displays(m);
 }
 fn displays(x:i32){
-    for n in 1..x{
-        println!("{}",n);
+    let n=1..x;
+    for i in n{
+        println!("{}",i);
     }
 }
