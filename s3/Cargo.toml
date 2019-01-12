@@ -1,0 +1,9 @@
+[package]
+name = "s3"
+version = "0.1.0"
+authors = ["bishtpawan <pawan.knoldus@knoldus.in>"]
+edition = "2018"
+
+[dependencies]
+rust-s3 = "0.4.1"
+
