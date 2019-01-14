@@ -1,0 +1,8 @@
+[package]
+name = "image_upload"
+version = "0.1.0"
+authors = ["AlokJha51 <alok.jha@knoldus.in>"]
+edition = "2018"
+
+[dependencies]
+rust-s3 = "0.4.1"
